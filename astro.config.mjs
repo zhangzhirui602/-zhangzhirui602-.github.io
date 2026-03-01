@@ -8,7 +8,7 @@ export default defineConfig({
   },
   // add yur domain name here
   site: 'https://zhangzhirui602.github.io',
-  base: '/-zhangzhirui602-.github.io',
+  base: '/-zhangzhirui602-.github.io/',
   compressHTML: true,
   integrations: [sitemap()]
 });
